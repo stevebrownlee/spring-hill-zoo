@@ -27,6 +27,13 @@ const database = {
       food: "Candy Corn",
       exhibitId: 2
     },
+    { 
+      id: 4,
+      name: "Garrett",
+      species: "Alligator",
+      food: "Clam Chowder",
+      exhibitId: 4
+    }
   ],
   exhibits: [
     {
