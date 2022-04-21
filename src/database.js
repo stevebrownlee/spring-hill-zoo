@@ -1,5 +1,5 @@
-/* 
-  Module Responsibility: 
+/*
+  Module Responsibility:
     Contain the data for the application and expose
     it via getter functions.
 */
@@ -42,6 +42,11 @@ const database = {
     {
       id: 3,
       name: "Just Elephants",
+      indoor: false
+    },
+    {
+      id: 4,
+      name: "Alligator Adventure",
       indoor: false
     }
   ],
