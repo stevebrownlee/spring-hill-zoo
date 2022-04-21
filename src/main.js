@@ -1,9 +1,8 @@
 import { Header } from "./header.js";
 import { Concessions } from "./concessions.js";
-import "./styles.css";
 import { ExhibitList } from "./exhibit_list.js";
 
-/* 
+/*
   Goals of project:
     1. Header for each exhibit of the zoo
     2. Under header list all animals in that exhibit
@@ -12,7 +11,7 @@ import { ExhibitList } from "./exhibit_list.js";
 */
 
 
-/* 
+/*
   Module Responsibility:
     1. Update the DOM with *all* of the HTML
     2. Defer creation of specific sections to other modules
